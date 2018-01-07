@@ -1,3 +1,3 @@
 ## Intro to PHP
 
-Hello, world 
+Codecademy course
